@@ -59,10 +59,9 @@
   - [ファイメクス](https://www.fimecs.com/)
   - [テムリック](https://www.tmrc.co.jp/)
 
-- [ビジネスモデル、収益の仕組み](business-model.md)
-
 ## 目次
 
+- [ビジネスモデル、収益の仕組み](business-model.md)
 - Q&A
   - [Q&A](qa/qa.md)
   - [質問集（未回答分）](qa/questions.md)
