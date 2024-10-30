@@ -66,7 +66,7 @@
   - [Q&A](qa/qa.md)
   - [質問集（未回答分）](qa/questions.md)
 - ニュース
-  - 会社公式お知らせ
+  - [会社公式のお知らせ](news/official-release.md)
   - 関連会社のお知らせ
     - [ファイメクス](news/affiliated-companies/fimecs.md)
   - [一般記事](news/articles.md)
