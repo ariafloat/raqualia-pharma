@@ -71,6 +71,7 @@
     - [ファイメクス](news/affiliated-companies/fimecs.md)
   - [一般記事](news/articles.md)
   - [株主提案関連記事](news/shareholder-proposal.md)
+- [論文・学会発表のアブストラクトなど](papers.md)
 - パイプライン
   - [以前からまとめているサイト](https://stock.ariafloat.com/raqualia/)
 
