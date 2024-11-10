@@ -1,5 +1,12 @@
 # 記事
 
+- [HK이노엔 "2028년 국내 1위 목표...케이캡 100개국 진출"](https://www.dailypharm.com/Users/News/NewsView.html?ID=317096)
+  - date: 2024-11-06
+  - tags: tegoprazan
+  - ポイント
+    - HKイノエンは、2028年までに国内1位製薬会社になる目標を提示
+    - tegoprazan（K-CAB）を2028年までに世界100か国に進出させる計画
+
 - ['美-中 쌍끌이' HK이노엔 케이캡…블록버스터 등극 예고](https://m.edaily.co.kr/News/Read?newsId=01082406639056528&mediaCodeNo=257)
   - date: 2024-10-25
   - tags: tegoprazan
