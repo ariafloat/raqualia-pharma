@@ -1,5 +1,11 @@
 # 記事
 
+- [“HK이노엔 ‘케이캡’ NSAIDs 유발 소장 손상에도 효과”](https://www.hkn24.com/news/articleView.html?idxno=341143)
+  - date: 2024-11-11
+  - tags: tegoprazan
+  - ポイント
+    - 非ステロイド性抗炎症薬（NSAIDs）誘発性腸疾患に対するtegoprazanの効果の可能性を研究した論文についての記事
+    - 論文：[Effect of tegoprazan, a novel potassium-competitive acid blocker, on non-steroidal anti-inflammatory drug (NSAID)-induced enteropathy](https://www.nature.com/articles/s41598-024-78581-2)
 - [HK이노엔 "2028년 국내 1위 목표...케이캡 100개국 진출"](https://www.dailypharm.com/Users/News/NewsView.html?ID=317096)
   - date: 2024-11-06
   - tags: tegoprazan
