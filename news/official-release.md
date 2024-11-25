@@ -1,6 +1,11 @@
 # 会社公式のお知らせ
 
-
+- [グレリン受容体作動薬エルーラ®の日本国内における販売開始のお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241122528172/pdfFile.pdf)
+  - date: 2024-11-22
+  - tags: グレリン受容体作動薬,ELURA
+- [2024年12月期（第17期）第３四半期 決算説明会動画配信のお知らせ](https://www.raqualia.com/ja/news/news-5462306987580892189.html)
+  - date: 2024-11-20
+  - tags: 決算,説明会
 - [2024年12月期（第17期）第３四半期　決算説明会資料](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241114523094/pdfFile.pdf)
   - date: 2024-11-14
   - tags: 決算,説明会
