@@ -1,5 +1,17 @@
 # 会社公式のお知らせ
 
+- [胃酸分泌抑制剤tegoprazanの中南米諸国における製品発売に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241212537666/pdfFile.pdf)
+  - date: 2024-12-12
+  - tags: tegoprazan
+- [従業員に対する譲渡制限株式ユニット付与制度に基づく新株式発行に係る払込完了に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241204534172/pdfFile.pdf)
+  - date: 2024-12-05
+  - tags: 
+- [子会社役員に対する第三者割当による新株式発行に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241203533600/pdfFile.pdf)
+  - date: 2024-12-04
+  - tags:
+- [胃酸分泌抑制剤tegoprazanのインドにおける承認勧告に関するお知らせ](https://www.raqualia.com/ja/news/news3880206708215226714.html)
+  - date: 2024-12-03
+  - tags: tegoprazan
 - [グレリン受容体作動薬エルーラ®の日本国内における販売開始のお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241122528172/pdfFile.pdf)
   - date: 2024-11-22
   - tags: グレリン受容体作動薬,ELURA
