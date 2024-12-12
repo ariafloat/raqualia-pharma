@@ -1,5 +1,19 @@
 # 記事
 
+- [HK이노엔 위식도역류질환 신약 케이캡, 중남미 6개국 출시](https://www.inno-n.com/pr/news/view/1/1006)
+  - date: 2024-12-12
+  - tags: tegoprazan
+  - ポイント
+    - tegoprazanの中南米6カ国の発売
+    - コロンビアでシンポジウムが開催され、米州地域で著名な消化器専門医が多数参加し、K-CABのメリットや新しい治療オプションとして活用可能な分野などについて発表し、熱い討論
+    - 米国シャーロッツビル、バージニア大学消化器内科名誉教授"David A. peura 博士"が「K-CABは、胃酸抑制が必要なすべてのヘリコバクター除菌治療のオプションとして考慮すべきである」と述べた
+    - 米国メイヨークリニックの"Marcelo Vela 博士"は「K-CABは、他のP-CAB系に比べて胃酸抑制の薬効発現時間が速く、中等度以上の食道炎患者（LA grade B/C/D）の逆流性食道炎治療でPPIに比べて大きな利点がある」と述べた
+- [HK이노엔 ‘케이캡’, 란소프라졸 대비 우월성 확인 … PPI 잠식 가속하나](https://m.healthcaren.com/news/news_article_yong.jsp?mn_idx=539339#google_vignette)
+  - date: 2024-12-10
+  - tags: tegoprazan
+  - ポイント
+    - tegoprazanとランソプラゾールの比較の論文についての記事
+    - 論文：[Comparison of Tegoprazan and Lansoprazole in Patients With Erosive Esophagitis up to 4 Weeks: A Multi-Center, Randomized, Double-Blind, Active-Comparator Phase 4 Trial](https://onlinelibrary.wiley.com/doi/10.1111/nmo.14969)
 - [“HK이노엔 ‘케이캡’ NSAIDs 유발 소장 손상에도 효과”](https://www.hkn24.com/news/articleView.html?idxno=341143)
   - date: 2024-11-11
   - tags: tegoprazan
@@ -12,7 +26,6 @@
   - ポイント
     - HKイノエンは、2028年までに国内1位製薬会社になる目標を提示
     - tegoprazan（K-CAB）を2028年までに世界100か国に進出させる計画
-
 - ['美-中 쌍끌이' HK이노엔 케이캡…블록버스터 등극 예고](https://m.edaily.co.kr/News/Read?newsId=01082406639056528&mediaCodeNo=257)
   - date: 2024-10-25
   - tags: tegoprazan
