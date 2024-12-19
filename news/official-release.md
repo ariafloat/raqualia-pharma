@@ -1,5 +1,34 @@
 # 会社公式のお知らせ
 
+
+- [ライブ配信による業績予想の修正等に関する説明会（2024年12月13日開催）動画配信のお知らせ](https://www.raqualia.com/ja/news/news2530754657624800558.html)
+  - date: 2024-12-19
+  - tags: 決算,説明会
+- [仏Vetbiolix SASによる5-HT4作動薬のオプション権行使に伴う一時金受領のお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241218540327/pdfFile.pdf)
+  - date: 2024-12-18
+  - tags: Vetbiolix,RQ-00000010,RQ-10,VBX-3000,5-HT4作動薬
+  - ポイント
+    - 2031年までにピーク時の世界売上高が1億2500万ドルに達すると予測
+    - POC臨床試験の最終的な臨床結果は、2025年第2四半期までに得られ、2026年までにパイロット薬事承認臨床試験を開始する予定
+- [ライブ配信による業績予想の修正等に関する説明会のお知らせ](https://www.raqualia.com/ja/news/news3489825621427772757.html)
+  - date: 2024-12-13
+  - tags: 決算,説明会
+- [役員報酬の減額及び辞退に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241213538225/pdfFile.pdf)
+  - date: 2024-12-13
+  - tags:
+- [代表取締役の異動に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241213538222/pdfFile.pdf)
+  - date: 2024-12-13
+  - tags: 人事
+- [事業計画及び成長可能性に関する事項の更新に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241213538211/pdfFile.pdf)
+  - date: 2024-12-13
+  - tags: 決算
+- [2024年12月期 通期連結業績予想の修正に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241213538084/pdfFile.pdf)
+  - date: 2024-12-13
+  - tags: 決算
+- [マルホ株式会社との選択的ナトリウムチャネル遮断薬に関するライセンス契約の終了についてのお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241213538073/pdfFile.pdf)
+  - date: 2024-12-13
+  - tags: マルホ,選択的ナトリウムチャネル遮断薬
+
 - [胃酸分泌抑制剤tegoprazanの中南米諸国における製品発売に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241212537666/pdfFile.pdf)
   - date: 2024-12-12
   - tags: tegoprazan
