@@ -1,6 +1,17 @@
 # 会社公式のお知らせ
 
-
+- [代表取締役就任のご挨拶](https://www.raqualia.com/ja/news/news5072013859833849243.html)
+  - date: 2025-01-01
+  - tags:
+- [アナリストレポート（株式会社シェアードリサーチ）を掲載いたしました](https://www.raqualia.com/ja/news/news5423496456018593953/main/0/link/4579_JP_20241225.pdf)
+  - date: 2024-12-26
+  - tags: アナリストレポート
+- [第三者割当に係る株式譲渡報告確約書（新株式）](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241220542376/pdfFile.pdf)
+  - date: 2024-12-23
+  - tags:
+- [子会社役員に対する第三者割当による新株式発行に係る払込完了に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241220542275/pdfFile.pdf)
+  - date: 2024-12-20
+  - tags:
 - [ライブ配信による業績予想の修正等に関する説明会（2024年12月13日開催）動画配信のお知らせ](https://www.raqualia.com/ja/news/news2530754657624800558.html)
   - date: 2024-12-19
   - tags: 決算,説明会
