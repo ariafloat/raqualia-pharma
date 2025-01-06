@@ -1,5 +1,12 @@
 # 記事
 
+- [“‘케이캡’, 온디맨드 요법도 효과적 … 에스오메프라졸보다 증상 개선 빨라”](https://www.hkn24.com/news/articleView.html?idxno=342175)
+  - date: 2025-01-06
+  - tags: tegoprazan
+  - ポイント
+    - tegoprazanのオンデマンド療法の論文についての記事
+    - PPIの「エソメプラゾール」と比較している
+    - 論文：[Assessment of the efficacy of on-demand tegoprazan therapy in gastroesophageal reflux disease through a randomized controlled trial](https://www.nature.com/articles/s41598-024-84065-0)
 - [HK이노엔 위식도역류질환 신약 케이캡, 중남미 6개국 출시](https://www.inno-n.com/pr/news/view/1/1006)
   - date: 2024-12-12
   - tags: tegoprazan
