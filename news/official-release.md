@@ -1,5 +1,8 @@
 # 会社公式のお知らせ
 
+- [胃酸分泌抑制剤tegoprazanのオーストラリア・ニュージーランドにおけるサブライセンスのお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250106546769/pdfFile.pdf)
+  - date: 2025-01-06
+  - tags: tegoprazan
 - [代表取締役就任のご挨拶](https://www.raqualia.com/ja/news/news5072013859833849243.html)
   - date: 2025-01-01
   - tags:
