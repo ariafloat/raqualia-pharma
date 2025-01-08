@@ -18,6 +18,11 @@
 
 ## その他
 
+- [Effect of Capromorelin on Appetite and Weight Gain of Domestic Pigeons (Columba livia domestica)](https://bioone.org/journals/journal-of-avian-medicine-and-surgery/volume-38/issue-4/AVIANMS-D-23-00028/Effect-of-Capromorelin-on-Appetite-and-Weight-Gain-of-Domestic/10.1647/AVIANMS-D-23-00028.short)
+  - date: 2025-01-06
+  - tags: グレリン,capromorelin
+  - ポイント
+    - capromorelinを与えられたハトは対照群のハトよりも38%多く食物を摂取し、有意に体重が増加した（2.5%増加、対照群は0.7%減少）
 - [Sexual dimorphism in prokinetic effects of a ghrelin agonist acting through the lumbosacral defecation center in rats](https://jps.biomedcentral.com/articles/10.1186/s12576-024-00949-w)
   - date: 2024-11-22
   - tags: グレリン,RQ-00538053
