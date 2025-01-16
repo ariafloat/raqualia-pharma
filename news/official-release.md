@@ -1,5 +1,8 @@
 # 会社公式のお知らせ
 
+- [TRPV4拮抗薬（ピリミジン-4(3H)-オン誘導体）の中国における特許査定のお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250116551781/pdfFile.pdf)
+  - date: 2025-01-16
+  - tags: TRPV4
 - [胃酸分泌抑制剤tegoprazanのオーストラリア・ニュージーランドにおけるサブライセンスのお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250106546769/pdfFile.pdf)
   - date: 2025-01-06
   - tags: tegoprazan
