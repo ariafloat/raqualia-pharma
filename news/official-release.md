@@ -1,5 +1,26 @@
 # 会社公式のお知らせ
 
+- [2024年12月期 決算説明会資料](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214576507/pdfFile.pdf)
+  - date: 2025-02-14
+  - tags: 決算
+- [連結子会社の代表取締役の異動に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214576148/pdfFile.pdf)
+  - date: 2025-02-14
+  - tags:
+- [事後交付型業績連動型株式報酬制度（パフォーマンス・シェア・ユニット制度）の改定に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214576101/pdfFile.pdf)
+  - date: 2025-02-14
+  - tags:
+- [2024年12月期 決算短信〔日本基準〕（連結）](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214576007/pdfFile.pdf)
+  - date: 2025-02-14
+  - tags: 決算
+- [役員の異動に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214575872/pdfFile.pdf)
+  - date: 2025-02-14
+  - tags:
+- [事業計画および成長可能性に関する事項](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214575870/pdfFile.pdf)
+  - date: 2025-02-14
+  - tags: 決算,中計
+- [2024年12月期（第17期）決算説明会のお知らせ](https://www.raqualia.com/ja/news/news-9159350268555352774.html)
+  - date: 2025-02-03
+  - tags: 決算,説明会
 - [TRPV4拮抗薬（ピリミジン-4(3H)-オン誘導体）の中国における特許査定のお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250116551781/pdfFile.pdf)
   - date: 2025-01-16
   - tags: TRPV4
@@ -38,7 +59,7 @@
   - tags: 人事
 - [事業計画及び成長可能性に関する事項の更新に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241213538211/pdfFile.pdf)
   - date: 2024-12-13
-  - tags: 決算
+  - tags: 決算,中計
 - [2024年12月期 通期連結業績予想の修正に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20241213538084/pdfFile.pdf)
   - date: 2024-12-13
   - tags: 決算
