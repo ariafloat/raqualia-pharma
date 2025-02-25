@@ -1,5 +1,12 @@
 # 記事
 
+- [“P-CAB 신약 ‘케이캡’ 간 손상 환자서도 안전성 ‘우수’”](https://www.hkn24.com/news/articleView.html?idxno=343122)
+  - date: 2025-02-25
+  - tags: tegoprazan
+  - ポイント
+    - tegoprazanの肝機能障害患者に対する影響の論文についての記事
+    - tegoprazanは、肝機能障害患者において概ね忍容性が良好
+    - 論文：[Phase I Study to Evaluate the Effect of Hepatic Impairment on Pharmacokinetics and Safety of Tegoprazan, a Potassium Competitive Acid Blocker](https://link.springer.com/article/10.1007/s12325-025-03127-5)
 - [“‘케이캡’, 온디맨드 요법도 효과적 … 에스오메프라졸보다 증상 개선 빨라”](https://www.hkn24.com/news/articleView.html?idxno=342175)
   - date: 2025-01-06
   - tags: tegoprazan

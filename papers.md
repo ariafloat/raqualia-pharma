@@ -6,6 +6,11 @@
 
 ## Tegoprazan
 
+- [Phase I Study to Evaluate the Effect of Hepatic Impairment on Pharmacokinetics and Safety of Tegoprazan, a Potassium Competitive Acid Blocker](https://link.springer.com/article/10.1007/s12325-025-03127-5)
+  - date: 2025-02-25
+  - tags: tegoprazan
+  - ポイント
+    - tegoprazanは、肝機能障害患者において概ね忍容性が良好
 - [Assessment of the efficacy of on-demand tegoprazan therapy in gastroesophageal reflux disease through a randomized controlled trial](https://www.nature.com/articles/s41598-024-84065-0)
   - date: 2025-01-02
   - tags: tegoprazan,オンデマンド療法
