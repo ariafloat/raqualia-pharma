@@ -1,5 +1,12 @@
 # 会社公式のお知らせ
 
+
+- [2024年12月期（第17期）決算説明会動画配信のお知らせ](https://www.raqualia.com/ja/news/news-2988683960067750231.html)
+  - date: 2025-02-25
+  - tags: 決算,説明会
+- [2024年12月期（第17期）決算説明会（メディア／アナリスト／機関投資家向け）のスクリプト公開のお知らせ](https://www.raqualia.com/ja/news/news-231094873979087091.html)
+  - date: 2025-02-25
+  - tags: 決算,説明会
 - [2024年12月期 決算説明会資料](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250214576507/pdfFile.pdf)
   - date: 2025-02-14
   - tags: 決算
