@@ -1,6 +1,17 @@
 # 会社公式のお知らせ
 
-
+- [独立役員届出書](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250227584309/pdfFile.pdf)
+  - date: 2025-02-28
+  - tags: 株主総会
+- [第17期定時株主総会招集ご通知（交付書面非記載事項）](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250227583338/pdfFile.pdf)
+  - date: 2025-02-28
+  - tags: 株主総会
+- [第17期定時株主総会招集ご通知及び株主総会資料](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250227583318/pdfFile.pdf)
+  - date: 2025-02-28
+  - tags: 株主総会
+- [2024年12月期（第17期）決算説明会のスクリプト公開のお知らせ](https://www.raqualia.com/ja/news/news-6172449197850372066.html)
+  - date: 2025-02-26
+  - tags: 決算,説明会
 - [2024年12月期（第17期）決算説明会動画配信のお知らせ](https://www.raqualia.com/ja/news/news-2988683960067750231.html)
   - date: 2025-02-25
   - tags: 決算,説明会
