@@ -1,5 +1,10 @@
 # 記事
 
+- [罗欣药业注射用LX22001新增适应症获批开展临床试验](https://www.luoxin.cn/page.aspx?node=53&id=11262)
+  - date: 2025-03-11
+  - tags: tegoprazan
+  - ポイント
+    - 中国で注射用LX22001が「重症患者のストレス性潰瘍出血予防」の適応症で臨床試験の承認取得
 - [“P-CAB 신약 ‘케이캡’ 간 손상 환자서도 안전성 ‘우수’”](https://www.hkn24.com/news/articleView.html?idxno=343122)
   - date: 2025-02-25
   - tags: tegoprazan
