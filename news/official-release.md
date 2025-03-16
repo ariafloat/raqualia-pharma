@@ -1,5 +1,8 @@
 # 会社公式のお知らせ
 
+- [日産化学株式会社の創薬研究成果に関するライセンス契約締結のお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250314594107/pdfFile.pdf)
+  - date: 2025-03-14
+  - tags: 日産化学,神経疾患
 - [独立役員届出書](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250227584309/pdfFile.pdf)
   - date: 2025-02-28
   - tags: 株主総会
