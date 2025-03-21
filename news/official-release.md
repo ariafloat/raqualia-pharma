@@ -1,5 +1,8 @@
 # 会社公式のお知らせ
 
+- [資本業務提携、第三者割当による新株式の発行並びに主要株主及び主要株主である筆頭株主の異動に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250321597730/pdfFile.pdf)
+  - date: 2025-03-21
+  - tags: 資本業務提携,HKイノエン
 - [日産化学株式会社の創薬研究成果に関するライセンス契約締結のお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250314594107/pdfFile.pdf)
   - date: 2025-03-14
   - tags: 日産化学,神経疾患
