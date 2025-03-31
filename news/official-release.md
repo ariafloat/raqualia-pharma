@@ -1,5 +1,32 @@
 # 会社公式のお知らせ
 
+- [当社及び当社子会社の役員人事に関するお知らせ](https://www.raqualia.com/ja/news/news-8456637484672012524.html)
+  - date: 2025-03-31
+  - tags: 人事
+- [ファイメクス株式会社のアステラス製薬株式会社との共同研究における追加一時金計上に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250331504557/pdfFile.pdf)
+  - date: 2025-03-31
+  - tags: ファイメクス,アステラス製薬
+- [訂正有価証券報告書-第17期(2024/01/01-2024/12/31)](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250331153000_S100VJ8W/pdfFile.pdf)
+  - date: 2025-03-31
+  - tags: 有価証券報告書
+- [有価証券報告書-第17期(2024/01/01-2024/12/31)](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250326154900_S100VH52/pdfFile.pdf)
+  - date: 2025-03-26
+  - tags: 有価証券報告書
+- [コーポレート・ガバナンスに関する報告書 2025/03/26](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250322598054/pdfFile.pdf)
+  - date: 2025-03-26
+  - tags: 
+- [第17期株主通信](https://www.raqualia.com/ja/news/news-1373124247297865273/main/0/link/Shareholder_Communication_17th.pdf)
+  - date: 2025-03-25
+  - tags: 株主通信
+- [事後交付型業績連動型株式報酬（付与）制度に基づく新株式発行に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250325599728/pdfFile.pdf)
+  - date: 2025-03-25
+  - tags: 
+- [取締役に対する譲渡制限付株式報酬としての新株式発行に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250325599443/pdfFile.pdf)
+  - date: 2025-03-25
+  - tags: 
+- [第17期定時株主総会決議ご通知](https://www.raqualia.com/ja/news/news-3751045921861649294/main/0/link/Notice_of_Resolution_17th_JA.pdf)
+  - date: 2025-03-25
+  - tags: 株主総会
 - [資本業務提携、第三者割当による新株式の発行並びに主要株主及び主要株主である筆頭株主の異動に関するお知らせ](https://data.swcms.net/file/raqualia-corp/ja/news/auto_20250321597730/pdfFile.pdf)
   - date: 2025-03-21
   - tags: 資本業務提携,HKイノエン
