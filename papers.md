@@ -6,6 +6,16 @@
 
 ## Tegoprazan
 
+- [Intravenous proton pump inhibitors vs oral potassium competitive acid blockers before endoscopic treatment of bleeding peptic ulcers](https://www.wjgnet.com/1948-5190/full/v17/i6/104234.htm)
+  - date: 2025-06-16
+  - tags: tegoprazan
+  - ポイント
+    - 緊急内視鏡検査前の非静脈瘤性上部消化管出血の管理において、静脈内プロトンポンプ阻害薬（PPI）と経口カリウム競合性酸遮断薬（P-CAB）の有効性を比較
+    - PPI注射群とP-CAB投与群では、出血の重症度に有意差は認められなかった
+    - しかし、P-CAB群では、直近の出血徴候を伴う潰瘍病変が有意に少なく、治療的内視鏡的介入の頻度も少なかった
+    - さらに、再出血はPPI群でより多く発生した
+    - これらの結果は、内視鏡検査前のP-CAB投与がPPIよりも効果的であり、潰瘍出血に関連する死亡率を低減する可能性があることを示唆している
+Lim NR, Chung WC. Intravenous proton pump inhibitors vs oral potassium competitive acid blockers before endoscopic treatment of bleeding peptic ulcers. World J Gastrointest Endosc 2025; 17(6): 104234 [DOI: 10.4253/wjge.v17.i6.104234]
 - [Phase I Study to Evaluate the Effect of Hepatic Impairment on Pharmacokinetics and Safety of Tegoprazan, a Potassium Competitive Acid Blocker](https://link.springer.com/article/10.1007/s12325-025-03127-5)
   - date: 2025-02-25
   - tags: tegoprazan
