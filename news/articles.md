@@ -1,5 +1,13 @@
 # 記事
 
+- ["케이캡 연 매출, 3조원 달성한다…비만·아토피 약도 출격"](https://news.mt.co.kr/mtview.php?no=2025061319280048479)
+  - date: 2025-06-15
+  - tags: tegoprazan
+  - ポイント
+    - HK inno.Nが2030年のtegoprazanの売上目標を2兆ウォンから3兆ウォンに上方修正
+    - 米国の臨床試験の結果発表後に、欧州などの企業からの問い合わせが大幅に増加
+    - 西ヨーロッパなどの未進出国への進出も協議中
+    - 中国のtegoprazanの注射剤の発売は2030年見通し
 - [罗欣药业注射用LX22001新增适应症获批开展临床试验](https://www.luoxin.cn/page.aspx?node=53&id=11262)
   - date: 2025-03-11
   - tags: tegoprazan
