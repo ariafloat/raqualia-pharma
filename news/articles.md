@@ -1,5 +1,10 @@
 # 記事
 
+- ["HK이노엔 '케이캡' 美 매출 1.4조 정조준…4Q 허가 신청"](https://www.news1.kr/bio/pharmaceutical-bio/5822989)
+  - date: 2025-06-24
+  - tags: tegoprazan
+  - ポイント
+    - tegoprazanの米国の売上高の予想：10億ドル（約1兆4000億ウォン）
 - ["케이캡 연 매출, 3조원 달성한다…비만·아토피 약도 출격"](https://news.mt.co.kr/mtview.php?no=2025061319280048479)
   - date: 2025-06-15
   - tags: tegoprazan
