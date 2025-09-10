@@ -1,5 +1,10 @@
 # 記事
 
+- [HK이노엔, 급성 심근경색 환자 대상 케이캡 연구결과 발표](https://www.inno-n.com/pr/news/view/1/1055)
+  - date: 2025-09-10
+  - tags: tegoprazan
+  - ポイント
+    - 経皮的冠動脈形成術（PCI）を受けた急性心筋梗塞（AMI）患者のうち、二重抗血小板療法（DAPT）とともに、PPI系薬物またはtegoprazanを服用した患者を比較した結果、tegoprazan服用群は、1年内の消化管出血リスクがPPI服用群に比べ約28%低いことが示され、心筋梗塞や脳卒中などの主要心脳血管イベント（MACCE）のリスクが増加しないことが確認された
 - ["HK이노엔 '케이캡' 美 매출 1.4조 정조준…4Q 허가 신청"](https://www.news1.kr/bio/pharmaceutical-bio/5822989)
   - date: 2025-06-24
   - tags: tegoprazan
