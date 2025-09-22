@@ -43,6 +43,7 @@
   - [その他](news/other)
 - [論文・学会発表のアブストラクトなど](papers.md)
 - パイプライン
+  - [Tegoprazan](pipeline/tegoprazan.md)
   - [以前からまとめているサイト](https://stock.ariafloat.com/raqualia/)
 
 ## 本リポジトリについて
