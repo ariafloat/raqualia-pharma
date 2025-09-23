@@ -33,7 +33,7 @@ Proton pump inhibitors (PPIs) have been used from long ago for gastroesophageal 
 ## Sales & Development Countries
 
 - Number of sales countries: 18
-- Number of licensed countries: 54
+- Number of expansion countries: 54
 
 | Country | Licensee | Sub-licensee | Launch Year | Development Status |
 |---|---|---|---|---|
