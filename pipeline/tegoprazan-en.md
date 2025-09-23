@@ -60,7 +60,7 @@ Proton pump inhibitors (PPIs) have been used from long ago for gastroesophageal 
 | Panama | 〃 | 〃 | 2025 | Launched |
 | Brazil | 〃 | Eurofarma Laboratórios S.A. | - | - |
 | India | 〃 | Dr. Reddy's Laboratories | 2025 | Launched |
-| Egypt | 〃 | Tabuk Pharmaceutical | - | - |
+| Saudi Arabia | 〃 | Tabuk Pharmaceutical | - | - |
 | Australia | 〃 | Southern XP | - | - |
 
 \* 〃: Same as above
@@ -96,7 +96,7 @@ HK inno.N sublicenses the rights to each country.
 
 *3: Russia, Kazakhstan, Uzbekistan, Ukraine, Belarus
 
-*4: Egypt, Sudan, Ethiopia, Morocco, Yemen, Libya, and 10 others
+*4: Saudi Arabia, Jordan, Lebanon, UAE, Oman, Kuwait, Bahrain, Iraq, Qatar, Algeria, Egypt, Sudan, Ethiopia, Morocco, Yemen, Libya
 
 ## Compound Codes
 
