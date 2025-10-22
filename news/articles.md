@@ -1,5 +1,11 @@
 # 記事
 
+- [HK이노엔, 신약 케이캡 6번째 적응증 추가 위한 임상 3상 성공](https://www.inno-n.com/pr/news/view/1/1064)
+  - date: 2025-10-22
+  - tags: tegoprazan
+  - ポイント
+    - HKイノエンがtegoprazanの6番目の適応症追加のための臨床試験第3相を成功
+    - 非ステロイド性抗炎症薬（NSAIDs）長期服用による胃・十二指腸潰瘍予防効果を確認するための試験
 - [PPI 장기복용 ‘족쇄’ 고가스트린혈증 HK이노엔 ‘케이캡’이 풀었다](https://www.hkn24.com/news/articleView.html?idxno=346898)
   - date: 2025-10-22
   - tags: tegoprazan
