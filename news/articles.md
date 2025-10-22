@@ -1,5 +1,11 @@
 # 記事
 
+- [PPI 장기복용 ‘족쇄’ 고가스트린혈증 HK이노엔 ‘케이캡’이 풀었다](https://www.hkn24.com/news/articleView.html?idxno=346898)
+  - date: 2025-10-22
+  - tags: tegoprazan
+  - ポイント
+    - 胃食道逆流症の維持療法として半量のtegoprazan 25mgと半量のランソプラゾール 15mgを維持療法中の24週間投与の間で比較した結果、tegoprazanの方が血清ガストリン値が有意に低く維持され、高ガストリン血症の発症の割合も有意に低かった
+    - 論文：[The Effect of Tegoprazan on Serum Gastrin Levels and the Development of Hypergastrinemia in the Maintenance Treatment for Gastroesophageal Reflux Disease: Comparison to Lansoprazole](https://doi.org/10.5056/jnm25104)
 - [위식도역류질환 신약 ‘케이캡’, 유럽소화기학회서 헬리코박터 제균 임상 결과 발표](https://www.inno-n.com/pr/news/view/1/1062)
   - date: 2025-10-15
   - tags: tegoprazan

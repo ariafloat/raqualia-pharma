@@ -6,6 +6,11 @@
 
 ## Tegoprazan
 
+- [The Effect of Tegoprazan on Serum Gastrin Levels and the Development of Hypergastrinemia in the Maintenance Treatment for Gastroesophageal Reflux Disease: Comparison to Lansoprazole](https://doi.org/10.5056/jnm25104)
+  - date: 2025-10-30
+  - tags: tegoprazan
+  - ポイント
+    - 胃食道逆流症の維持療法として半量のtegoprazan 25mgと半量のランソプラゾール 15mgを維持療法中の24週間投与の間で比較した結果、tegoprazanの方が血清ガストリン値が有意に低く維持され、高ガストリン血症の発症の割合も有意に低かった
 - [Intravenous proton pump inhibitors vs oral potassium competitive acid blockers before endoscopic treatment of bleeding peptic ulcers](https://www.wjgnet.com/1948-5190/full/v17/i6/104234.htm)
   - date: 2025-06-16
   - tags: tegoprazan
