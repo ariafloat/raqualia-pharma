@@ -21,7 +21,7 @@
 ## 基本情報
 
 - ラクオリア創薬の公式サイト
-  - https://www.raqualia.com/ja/index.html
+  - <https://www.raqualia.com/ja/index.html>
 - 証券コード：4579
 - 株式市場：東証 グロース市場
 - 子会社
