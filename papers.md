@@ -52,3 +52,6 @@ Lim NR, Chung WC. Intravenous proton pump inhibitors vs oral potassium competit
 - [Targeted degradation of IRAK-M protein: emerging strategies for cancer immunotherapy overcoming innate-driven immunosuppression](https://jitc.bmj.com/content/12/Suppl_2/A1434)
   - date: 2024-11-05
   - tags: IRAK-M,IRAK-3
+- [標的タンパク質分解誘導剤探索プラットフォームRaPPIDS](https://www.pharm.or.jp/medchemnewshtml/MEDCHEMNEWSVol34No4/index.html#page=27)
+  - date: 2024-11-00
+  - tags: RaPPIDS,FIM-001,IRAK-M
