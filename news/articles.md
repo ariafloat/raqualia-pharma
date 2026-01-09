@@ -1,5 +1,11 @@
 # 記事
 
+- [HK이노엔 ‘케이캡’ PPI 대비 우울증 안전성도 입증 … 장기 처방 ‘날개’](https://www.hkn24.com/news/articleView.html?idxno=348218)
+  - date: 2026-01-08
+  - tags: tegoprazan
+  - ポイント
+    - コホート研究において、オメプラゾール、パントプラゾール、ランソプラゾール、ラベプラゾール、エソメプラゾールの5種類のPPI投与群は、tegoprazan投与群と比較し、うつ病発症リスクが有意に高かった
+    - 論文：[Risk of Depression Related to Use of Proton Pump Inhibitors and Tegoprazan: A Nationwide Cohort Study](https://jkms.org/DOIx.php?id=10.3346/jkms.2026.41.e43)
 - [HK이노엔, 신약 케이캡 6번째 적응증 추가 위한 임상 3상 성공](https://www.inno-n.com/pr/news/view/1/1064)
   - date: 2025-10-22
   - tags: tegoprazan

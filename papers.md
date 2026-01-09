@@ -6,6 +6,11 @@
 
 ## Tegoprazan
 
+- [Risk of Depression Related to Use of Proton Pump Inhibitors and Tegoprazan: A Nationwide Cohort Study](https://jkms.org/DOIx.php?id=10.3346/jkms.2026.41.e43)
+  - date: 2026-01-07
+  - tags: tegoprazan
+  - ポイント
+    - コホート研究において、オメプラゾール、パントプラゾール、ランソプラゾール、ラベプラゾール、エソメプラゾールの5種類のPPI投与群は、tegoprazan投与群と比較し、うつ病発症リスクが有意に高かった
 - [The Effect of Tegoprazan on Serum Gastrin Levels and the Development of Hypergastrinemia in the Maintenance Treatment for Gastroesophageal Reflux Disease: Comparison to Lansoprazole](https://doi.org/10.5056/jnm25104)
   - date: 2025-10-30
   - tags: tegoprazan
