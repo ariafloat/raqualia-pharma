@@ -40,7 +40,7 @@ P-CAB は、胃食道逆流症治療の第一選択薬であるプロトンポ�
 | 国 | 導出先 | サブライセンス先 | 販売年 | 開発状況 |
 |---|---|---|---|---|
 | 日本 | HK inno.N | - | - | 臨床試験 P1 終了 |
-| 米国 | 同上 | Sebela Pharmaceuticals<br>（開発：Braintree Laboratories） | - | 承認申請準備中 |
+| 米国 | 同上 | Sebela Pharmaceuticals<br>（開発：Braintree Laboratories） | - | 承認申請 |
 | 中国 | 同上 | Luoxin Pharmaceutical | 2022年 | 販売中 |
 | 韓国 | 同上 | - | 2019年 | 販売中 |
 | フィリピン | 同上 | Metro Pharma Phils | 2022年 | 販売中|

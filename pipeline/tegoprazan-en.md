@@ -38,7 +38,7 @@ Proton pump inhibitors (PPIs) have been used from long ago for gastroesophageal 
 | Country | Licensee | Sub-licensee | Launch Year | Development Status |
 |---|---|---|---|---|
 | Japan | HK inno.N | - | - | Clinical Trial Phase 1 Completed |
-| United States | 〃 | Sebela Pharmaceuticals<br>(Development: Braintree Laboratories) | - | Preparing for NDA |
+| United States | 〃 | Sebela Pharmaceuticals<br>(Development: Braintree Laboratories) | - | NDA |
 | China | 〃 | Luoxin Pharmaceutical | 2022 | Launched |
 | Korea | 〃 | - | 2019 | Launched |
 | Philippines | 〃 | Metro Pharma Phils | 2022 | Launched|
