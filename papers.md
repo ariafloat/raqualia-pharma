@@ -11,6 +11,11 @@
   - tags: tegoprazan
   - ポイント
     - コホート研究において、オメプラゾール、パントプラゾール、ランソプラゾール、ラベプラゾール、エソメプラゾールの5種類のPPI投与群は、tegoprazan投与群と比較し、うつ病発症リスクが有意に高かった
+- [Comparative Renal Safety: Potassium-Competitive Acid Blockers vs. Proton Pump Inhibitors](https://academic.oup.com/ckj/advance-article/doi/10.1093/ckj/sfaf400/8400353)
+  - date: 2025-12-22
+  - tags: tegoprazan
+  - ポイント
+    - P-CABのtegoprazanは、PPIのesomeprazoleと比較して腎機能低下のリスクが低いことが示されており、P-CABは長期的な酸分泌抑制においてより安全な代替薬となる可能性を示唆している
 - [The Effect of Tegoprazan on Serum Gastrin Levels and the Development of Hypergastrinemia in the Maintenance Treatment for Gastroesophageal Reflux Disease: Comparison to Lansoprazole](https://doi.org/10.5056/jnm25104)
   - date: 2025-10-30
   - tags: tegoprazan
