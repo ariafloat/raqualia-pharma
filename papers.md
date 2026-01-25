@@ -6,6 +6,11 @@
 
 ## Tegoprazan
 
+- [Acid-suppressive effect of tegoprazan 12.5 mg BID: a phase 1 comparative study with tegoprazan 25 mg QD and famotidine 20 mg BID](https://tcpharm.org/DOIx.php?id=10.12793/tcp.2025.33.e18)
+  - date: 2025-12-18
+  - tags: tegoprazan, famotidine
+  - ポイント
+    - tegoprazanの低用量（12.5mg）の1日2回投与（BID）がファモチジンより安全かつ持続的な酸分泌抑制効果をもたらすことを示唆
 - [Risk of Depression Related to Use of Proton Pump Inhibitors and Tegoprazan: A Nationwide Cohort Study](https://jkms.org/DOIx.php?id=10.3346/jkms.2026.41.e43)
   - date: 2026-01-07
   - tags: tegoprazan

@@ -1,5 +1,11 @@
 # 記事
 
+- [HK이노엔 ‘케이캡’ 12.5mg 1상 데이터 공개 … 초저용량 상용화 ‘청신호’](https://www.hkn24.com/news/articleView.html?idxno=348469)
+  - date: 2026-01-23
+  - tags: tegoprazan, famotidine
+  - ポイント
+    - tegoprazanの低用量（12.5mg）の1日2回投与（BID）がファモチジンより安全かつ持続的な酸分泌抑制効果をもたらすことを示唆
+    - 論文：[Acid-suppressive effect of tegoprazan 12.5 mg BID: a phase 1 comparative study with tegoprazan 25 mg QD and famotidine 20 mg BID](https://tcpharm.org/DOIx.php?id=10.12793/tcp.2025.33.e18)
 - [HK이노엔 ‘케이캡’ PPI 대비 우울증 안전성도 입증 … 장기 처방 ‘날개’](https://www.hkn24.com/news/articleView.html?idxno=348218)
   - date: 2026-01-08
   - tags: tegoprazan
