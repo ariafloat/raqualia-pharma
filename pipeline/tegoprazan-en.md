@@ -29,11 +29,12 @@ Proton pump inhibitors (PPIs) have been used from long ago for gastroesophageal 
 | Ki-CAB | Latin America (Mexico and other countries) |
 | TEZA | Indonesia |
 | PCAB | India |
+| ТЕГОПРЕКС (Tegoprex) | Russia |
 
 ## Sales & Development Countries
 
-- Number of sales countries: 18
-- Number of expansion countries: 54
+- Number of sales countries: 19
+- Number of expansion countries: 57
 
 | Country | Licensee | Sub-licensee | Launch Year | Development Status |
 |---|---|---|---|---|
@@ -47,7 +48,7 @@ Proton pump inhibitors (PPIs) have been used from long ago for gastroesophageal 
 | Singapore | 〃 | United Italian Trading Corporation (UITC) | 2023 | Launched |
 | Malaysia | 〃 | Pharmaniaga Logistics | 2025 | Launched |
 | Vietnam | 〃 | Lynh Pharma | - | - |
-| Thailand | 〃 | Pond's Chemical Thailand R.O.P. | - | - |
+| Thailand | 〃 | Pond's Chemical Thailand R.O.P. | 2025 | Launched |
 | Mexico | 〃 | Laboratorios Carnot | 2023 | Launched |
 | Peru | 〃 | 〃 | 2023 | Launched |
 | Chile | 〃 | 〃 | 2024 | Launched |

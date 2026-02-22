@@ -31,6 +31,7 @@ P-CAB は、胃食道逆流症治療の第一選択薬であるプロトンポ�
 | Ki-CAB | 中南米（メキシコなど） |
 | TEZA | インドネシア |
 | PCAB | インド |
+| ТЕГОПРЕКС (Tegoprex) | ロシア |
 
 ## 販売国・開発国
 
@@ -49,7 +50,7 @@ P-CAB は、胃食道逆流症治療の第一選択薬であるプロトンポ�
 | シンガポール | 同上 | United Italian Trading Corporation (UITC) | 2023年 | 販売中 |
 | マレーシア | 同上 | Pharmaniaga Logistics | 2025年 | 販売中 |
 | ベトナム | 同上 | Lynh Pharma | - | - |
-| タイ | 同上 | Pond's Chemical Thailand R.O.P. | - | 販売中 |
+| タイ | 同上 | Pond's Chemical Thailand R.O.P. | 2025年 | 販売中 |
 | メキシコ | 同上 | Laboratorios Carnot | 2023年 | 販売中 |
 | ペルー | 同上 | 同上 | 2023年 | 販売中 |
 | チリ | 同上 | 同上 | 2024年 | 販売中 |
