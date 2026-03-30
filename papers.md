@@ -5,7 +5,13 @@
 # ラクオリア創薬
 
 ## Tegoprazan
-
+- [Anti-Inflammatory Therapeutic Effect of Tegoprazan in Spinal Cord-Injured Rats](https://doi.org/10.24976/Discov.Med.202638206.57)
+  - date: 2026-03-20
+  - tags: tegoprazan, SCI
+  - ポイント
+    - tegoprazanが脊髄損傷（SCI）後に発生する神経炎症を沈静できる可能性
+    - 動物実験を通じて、脊髄損傷治療薬であるステロイド製剤のメチルプレドニゾロンに匹敵する抗炎症効果を示した
+    - tegoprazanがKv1.3チャネルの発現を低下させた
 - [Acid-suppressive effect of tegoprazan 12.5 mg BID: a phase 1 comparative study with tegoprazan 25 mg QD and famotidine 20 mg BID](https://tcpharm.org/DOIx.php?id=10.12793/tcp.2025.33.e18)
   - date: 2025-12-18
   - tags: tegoprazan, famotidine
