@@ -1,5 +1,13 @@
 # 記事
 
+- [소화기 넘어 척수손상까지 … ‘케이캡’, P-CAB 한계 넘는 ‘약물 재창출’ 잠재력](https://www.hkn24.com/news/articleView.html?idxno=349233)
+  - date: 2026-03-23
+  - tags: tegoprazan, SCI
+  - ポイント
+    - tegoprazanが脊髄損傷（SCI）後に発生する神経炎症を沈静できる可能性
+    - 動物実験を通じて、脊髄損傷治療薬であるステロイド製剤のメチルプレドニゾロンに匹敵する抗炎症効果を示した
+    - tegoprazanがKv1.3チャネルの発現を低下させた
+    - 論文：[Anti-Inflammatory Therapeutic Effect of Tegoprazan in Spinal Cord-Injured Rats](https://doi.org/10.24976/Discov.Med.202638206.57)
 - [HK이노엔 ‘케이캡’ 12.5mg 1상 데이터 공개 … 초저용량 상용화 ‘청신호’](https://www.hkn24.com/news/articleView.html?idxno=348469)
   - date: 2026-01-23
   - tags: tegoprazan, famotidine
