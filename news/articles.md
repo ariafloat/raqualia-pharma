@@ -1,5 +1,11 @@
 # 記事
 
+- [HK이노엔 ‘케이캡’, PPI 대비 사망·말기 신부전 위험 ‘뚝’ … “고령·고위험군도 안심”](https://www.hkn24.com/news/articleView.html?idxno=349372)
+  - date: 2026-04-06
+  - tags: tegoprazan, CKD
+  - ポイント
+    - tegoprazanが重症慢性腎疾患（CKD）患者を対象とした長期投与研究で既存治療剤に比べて優れた安全性を立証
+    - 論文：[Tegoprazan and the risk of end-stage kidney disease progression: a nationwide Korean study](https://doi.org/10.23876/j.krcp.25.379)
 - [소화기 넘어 척수손상까지 … ‘케이캡’, P-CAB 한계 넘는 ‘약물 재창출’ 잠재력](https://www.hkn24.com/news/articleView.html?idxno=349233)
   - date: 2026-03-23
   - tags: tegoprazan, SCI

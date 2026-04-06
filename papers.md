@@ -5,6 +5,12 @@
 # ラクオリア創薬
 
 ## Tegoprazan
+
+- [Tegoprazan and the risk of end-stage kidney disease progression: a nationwide Korean study](https://doi.org/10.23876/j.krcp.25.379)
+  - date: 2026-04-02
+  - tags: tegoprazan, CKD
+  - ポイント
+    - tegoprazanを90日以上使用しても、H2RAやPPIと比較して、ステージ3,4の慢性腎臓病（CKD）患者において、死亡リスクや末期腎不全（ESKD）の進行リスクは増加しなかった
 - [Anti-Inflammatory Therapeutic Effect of Tegoprazan in Spinal Cord-Injured Rats](https://doi.org/10.24976/Discov.Med.202638206.57)
   - date: 2026-03-20
   - tags: tegoprazan, SCI
