@@ -38,7 +38,7 @@
   - tags: tegoprazan
   - ポイント
     - 胃食道逆流症の維持療法として半量のtegoprazan 25mgと半量のランソプラゾール 15mgを維持療法中の24週間投与の間で比較した結果、tegoprazanの方が血清ガストリン値が有意に低く維持され、高ガストリン血症の発症の割合も有意に低かった
-- [Intravenous proton pump inhibitors vs oral potassium competitive acid blockers before endoscopic treatment of bleeding peptic ulcers](https://www.wjgnet.com/1948-5190/full/v17/i6/104234.htm)
+- [Intravenous proton pump inhibitors vs oral potassium competitive acid blockers before endoscopic treatment of bleeding peptic ulcers](http://dx.doi.org/10.4253/wjge.v17.i6.104234)
   - date: 2025-06-16
   - tags: tegoprazan
   - ポイント
@@ -47,7 +47,6 @@
     - しかし、P-CAB群では、直近の出血徴候を伴う潰瘍病変が有意に少なく、治療的内視鏡的介入の頻度も少なかった
     - さらに、再出血はPPI群でより多く発生した
     - これらの結果は、内視鏡検査前のP-CAB投与がPPIよりも効果的であり、潰瘍出血に関連する死亡率を低減する可能性があることを示唆している
-Lim NR, Chung WC. Intravenous proton pump inhibitors vs oral potassium competitive acid blockers before endoscopic treatment of bleeding peptic ulcers. World J Gastrointest Endosc 2025; 17(6): 104234 [DOI: 10.4253/wjge.v17.i6.104234]
 - [Phase I Study to Evaluate the Effect of Hepatic Impairment on Pharmacokinetics and Safety of Tegoprazan, a Potassium Competitive Acid Blocker](https://link.springer.com/article/10.1007/s12325-025-03127-5)
   - date: 2025-02-25
   - tags: tegoprazan
