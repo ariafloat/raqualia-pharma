@@ -33,7 +33,7 @@ Proton pump inhibitors (PPIs) have been used from long ago for gastroesophageal 
 
 ## Sales & Development Countries
 
-- Number of sales countries: 19
+- Number of sales countries: 20
 - Number of expansion countries: 57
 
 | Country | Licensee | Sub-licensee | Launch Year | Development Status |
@@ -61,6 +61,7 @@ Proton pump inhibitors (PPIs) have been used from long ago for gastroesophageal 
 | Panama | 〃 | 〃 | 2025 | Launched |
 | Brazil | 〃 | Eurofarma Laboratórios S.A. | - | - |
 | India | 〃 | Dr. Reddy's Laboratories | 2025 | Launched |
+| Russia | 〃 | 〃 | 2026 | Launched |
 | Saudi Arabia | 〃 | Tabuk Pharmaceutical | - | - |
 | Australia | 〃 | Southern XP | - | - |
 
