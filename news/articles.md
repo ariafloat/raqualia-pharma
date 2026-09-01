@@ -1,5 +1,11 @@
 # 記事
 
+- [HK이노엔 ‘케이캡’, P-CAB 간 독성 꼬리표 제거 … PPI보다 뛰어난 안전성](https://www.hkn24.com/news/articleView.html?idxno=350902)
+  - date: 2026-09-01
+  - tags: tegoprazan
+  - ポイント
+    - コホート研究において、tegoprazanは、エソメプラゾールと比較して肝毒性リスクが有意に低いことが示された
+    - 論文：[Comparative Hepatic Safety Between Tegoprazan and Esomeprazole: A Real-World Cohort Study](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1872116/abstract)
 - [HK이노엔 ‘케이캡’, PPI 대비 사망·말기 신부전 위험 ‘뚝’ … “고령·고위험군도 안심”](https://www.hkn24.com/news/articleView.html?idxno=349372)
   - date: 2026-04-06
   - tags: tegoprazan, CKD

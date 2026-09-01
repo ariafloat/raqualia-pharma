@@ -6,6 +6,11 @@
 
 ## Tegoprazan
 
+- [Comparative Hepatic Safety Between Tegoprazan and Esomeprazole: A Real-World Cohort Study](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1872116/abstract)
+  - date: 2026-08-31
+  - tags: tegoprazan
+  - ポイント
+    - コホート研究において、tegoprazanは、エソメプラゾールと比較して肝毒性リスクが有意に低いことが示された
 - [Tegoprazan and the risk of end-stage kidney disease progression: a nationwide Korean study](https://doi.org/10.23876/j.krcp.25.379)
   - date: 2026-04-02
   - tags: tegoprazan, CKD
