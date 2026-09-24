@@ -6,6 +6,11 @@
 
 ## Tegoprazan
 
+- [CKD risk with tegoprazan versus proton pump inhibitors](https://doi.org/10.1093/ndt/gfag206)
+  - date: 2026-09-04
+  - tags: tegoprazan, CKD
+  - ポイント
+    - PPIは、tegoprazanよりCKD発症リスクが高かった
 - [Comparative Hepatic Safety Between Tegoprazan and Esomeprazole: A Real-World Cohort Study](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1872116/abstract)
   - date: 2026-08-31
   - tags: tegoprazan
